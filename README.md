@@ -56,7 +56,7 @@ Whether you are a **Cloud Security Architect**, **CISO**, **SOC Analyst**, or **
 
 > 💡 **Open-Source Reality Check**: Full-featured open-source CASB platforms are rare due to the sheer complexity of maintaining API connectors for thousands of SaaS apps. However, production-grade **open-source building blocks** (CSPM, DLP scanners, SIEM engines, and proxy brokers) enable security teams to assemble custom CASB architectures.
 
-*Sorted by GitHub Star Count (Descending)*
+*Sorted by GitHub Stars_Count (Descending)*
 
 1. 🟢 **[Prowler](https://github.com/prowler-cloud/prowler)** — Open-source Multi-Cloud Security Posture Management (CSPM) and SaaS Security Posture Management (SSPM) for AWS, Azure, GCP, Kubernetes, Microsoft 365, GitHub, and Okta. Features over 800+ automated security compliance checks.  
    [![Stars](https://img.shields.io/github/stars/prowler-cloud/prowler?style=social&color=white)](https://github.com/prowler-cloud/prowler/stargazers)
